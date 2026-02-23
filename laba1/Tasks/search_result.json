@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ivan",
+    "city": "Kyiv",
+    "age": "20"
+  },
+  {
+    "name": "Oleg",
+    "city": "Lviv",
+    "group": "FIOT"
+  },
+  {
+    "name": "Anna",
+    "city": "Odesa",
+    "age": "22"
+  }
+]
