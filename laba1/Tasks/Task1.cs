@@ -12,7 +12,7 @@ namespace laba1.Tasks
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
 
-            List<double> I = new List<double> { 14, 1.0, 1.5, 2.0, 2.5 };
+            List<double> I = new List<double> { 666, 1.0, 1.5, 2.0, 2.5 };
             List<double> U = new List<double> { 1.1, 2.1, 3.2, 4.1, 5.2 };
 
             if (I.Count != U.Count)
