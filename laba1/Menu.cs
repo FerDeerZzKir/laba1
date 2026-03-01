@@ -11,7 +11,7 @@ class Program
 
         Console.WriteLine("Оберить завдання (Варіант 14):");
         Console.WriteLine("1 - Наближене R");
-        Console.WriteLine("2 - Пошук по ключахх");
+        Console.WriteLine("2 - Пошук по ключах");
         Console.WriteLine("3 - фул LINQ");
 
         string choice = Console.ReadLine();
