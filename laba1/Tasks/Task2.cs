@@ -10,7 +10,7 @@ namespace laba1.Tasks
 {
     public static class Task2
     {
-        public static void Run()
+        public static void Run() 
         {
             Console.OutputEncoding = Encoding.UTF8;
 
